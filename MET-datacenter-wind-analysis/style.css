@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lato&family=Merriweather:wght@700&family=PT+Serif:wght@700&family=Roboto+Slab:wght@700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+}
+hr {
+    margin-top: 0px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Change sidebar color */
+.css-1ope8sv.e1fqkh3o4 {
+    background-color: #343334;
+    background-image: none;
+    color: #ffffff
+    }
+
+.css-1urxil2.edgvbvh9 {
+    background-color: #3d3c3d;
+}
